@@ -7,7 +7,7 @@
 [![Tests](https://img.shields.io/badge/Tests-11%20Passing-success?logo=github-actions&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)]()
 
-An institutional-grade quantitative statistical arbitrage research and backtesting framework for digital asset markets. The engine adapts the seminal econometric methodology of **Avellaneda & Lee (2010)** to a dynamic universe of the top 40 cryptocurrencies by market capitalization over an 8,760-hour (1-year) backtesting horizon.
+A quantitative statistical arbitrage research and backtesting framework for cryptocurrency markets. The engine adapts the seminal econometric methodology of **Avellaneda & Lee (2010)** to a dynamic universe of the top 40 cryptocurrencies by market capitalization over an 8,760-hour (1-year) backtesting horizon.
 
 By decomposing correlation dynamics via **Principal Component Analysis (PCA)** and modeling idiosyncratic residual spreads as **mean-reverting Ornstein-Uhlenbeck (OU) continuous processes**, the strategy extracts stationary alpha signals ($S\text{-scores}$) to execute market-neutral long/short trades under volatility and fixed-unit capital constraints.
 
